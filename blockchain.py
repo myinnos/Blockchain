@@ -62,6 +62,12 @@ class Blockchain:
             block_index += 1
         return True
     
+# Mining our Blockchain
+
+
+# Web App
+        
+# Blockchain
         
         
         
